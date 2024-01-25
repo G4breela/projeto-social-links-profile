@@ -7,7 +7,7 @@
 <h2> Exercício Proposto: 🕵️ </h2>
 
 <p> 
-   Neste pequeno projeto, você construirá seu perfil de compartilhamento de links sociais.
+   Neste pequeno projeto, você construirá um perfil de compartilhamento de links sociais.
 </p>
 
 <h2> Tecnologias Utilizadas: 👩‍💻 </h2>
