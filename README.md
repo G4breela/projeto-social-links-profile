@@ -19,3 +19,5 @@
   <h2> Projeto Finalizado ✅ </h2>
   
  <p>Link do Projeto: <a href="https://g4breela.github.io/projeto-social-links-profile">https://g4breela.github.io/projeto-social-links-profile</a></p>
+ 
+ <img alt="imagem do projeto finalizado" height="450" src="images/desktop-version.png">
